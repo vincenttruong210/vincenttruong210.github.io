@@ -5,8 +5,8 @@ import "./App.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 // import Component
-import Header from "./component/Header";
-import Footer from "./component/Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 
 // import Pages
