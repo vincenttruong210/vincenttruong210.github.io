@@ -15,8 +15,10 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <React.StrictMode>
+      <Router>
         <Header />
         <Footer />
+      </Router>
     </React.StrictMode>
   );
 }
